@@ -1,4 +1,5 @@
-Welcome to see my work. nothing works.
+Only the Paranoid Survive
+有生之年，做好半个坏蛋
 
 <!---
 vein-yang/vein-yang is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
