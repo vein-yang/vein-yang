@@ -1,5 +1,5 @@
 Only the Paranoid Survive  
-有生之年，做好半个坏蛋
+In one's lifetime, be half a villain.
 
 <!---
 vein-yang/vein-yang is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
